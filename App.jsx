@@ -7,7 +7,7 @@ import ChatScreen from './Components/ChatScreen';
 const App = () => {
   return (
     <View>
-      <ChatScreen/>
+      <OnboardingScreen/>
     </View>
   );
 };

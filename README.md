@@ -1,3 +1,11 @@
+Application Images:
+
+
+![alt text](<Screenshot 2025-06-23 163937.png>)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
