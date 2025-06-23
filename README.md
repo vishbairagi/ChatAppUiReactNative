@@ -5,7 +5,7 @@ Application Images:
 
 First ChatScreen:
 
-![Screenshot 2025-06-23 215848.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202025-06-23%20215848.png)
+![alt text](<Screenshot 2025-06-23 215848.png>)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
