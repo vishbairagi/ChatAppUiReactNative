@@ -6,7 +6,7 @@ import { View, Text, TouchableOpacity, StyleSheet, Image, SafeAreaView } from 'r
 
 const ChatScreen = () => {
   return (
-    <SafeAreaView style={styles.safeArea}>
+
       <View style={styles.container}>
         <View style={styles.header}>
           <TouchableOpacity>
@@ -69,7 +69,6 @@ const ChatScreen = () => {
           </TouchableOpacity>
         </View>
       </View>
-    </SafeAreaView>
   );
 };
 
@@ -143,7 +142,8 @@ const styles = StyleSheet.create({
     borderColor: '#ccc',
     borderRadius: 50,
     marginBottom: 10,
-    color:'#F4F4F4'
+    color:'#F4F4F4',
+    marginTop:10
   },
   inputContainer: {
     flexDirection: 'row',
@@ -151,7 +151,7 @@ const styles = StyleSheet.create({
     padding: 10,
     borderTopWidth: 1,
     borderTopColor: '#ccc',
-    marginTop:160
+    marginTop:130
     
   },
   inputText: {
